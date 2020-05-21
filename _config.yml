@@ -26,7 +26,9 @@ texture:
     github:  thelehhman
     linkedIn: in/thelehhman
     rss: rss
- 
+    
+paginate: 1  # 一个页面存放/显示多少篇文章
+paginate_path: /page:num/
 
 # If you want to link only specific pages in your header, uncomment
 # this and add the path to the pages in order as they should show up
@@ -34,8 +36,11 @@ texture:
 # - about.md
 
 # Build settings
-# theme: texture
+ theme: texture
 
 plugins:
   - jekyll-seo-tag
-#  - jekyll-feed
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate
