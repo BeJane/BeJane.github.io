@@ -1,9 +1,11 @@
 ---
 layout: post
-title: afl-fuzz实验
+title:  afl-fuzz漏洞检测实验
+description: afl-fuzz漏洞检测实验
+date:   2020-05-19
+categories: afl
 ---
-
-![texture theme preview](https://images.unsplash.com/photo-1500322969630-a26ab6eb64cc?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&w=1000&q=80)
+afl-fuzz漏洞检测实验
 
 # Install afl
 
