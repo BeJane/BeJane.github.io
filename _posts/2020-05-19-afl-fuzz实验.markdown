@@ -1,5 +1,8 @@
 
-
+---
+layout: post
+title: afl-fuzz实验
+---
 [TOC]
 
 # Install afl
