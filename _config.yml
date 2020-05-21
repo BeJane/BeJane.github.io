@@ -13,8 +13,8 @@ sass:
 
 permalink: /posts/:title/
 texture:
-  title: Adam Denisov
-  tagline: Developer. Designer
+  title: 步步咏凉天博客
+  tagline: 学生
   date_format: "%b %-d, %Y"
   style: black
   showNav: false
@@ -22,9 +22,9 @@ texture:
 
   # generate social links in footer
   social_links:
-    twitter: thelehhman
-    github:  thelehhman
-    linkedIn: in/thelehhman
+  #  twitter: thelehhman
+    github: BeJane
+#    linkedIn: in/thelehhman
     rss: rss
     
 paginate: 1  # 一个页面存放/显示多少篇文章
